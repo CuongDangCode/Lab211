@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ROG/Documents/NetBeansProjects/CalculateShape/src/Common/Library.java</file>
+            <file>file:/C:/Users/ROG/Documents/NetBeansProjects/CalculateShape/src/Controller/Controller.java</file>
+            <file>file:/C:/Users/ROG/Documents/NetBeansProjects/CalculateShape/src/Model/Triangle.java</file>
+            <file>file:/C:/Users/ROG/Documents/NetBeansProjects/CalculateShape/src/Model/Rectangle.java</file>
+            <file>file:/C:/Users/ROG/Documents/NetBeansProjects/CalculateShape/src/Model/Circle.java</file>
+            <file>file:/C:/Users/ROG/Documents/NetBeansProjects/CalculateShape/src/Model/Shape.java</file>
+            <file>file:/C:/Users/ROG/Documents/NetBeansProjects/CalculateShape/src/Repository/CalculatorRepository.java</file>
+            <file>file:/C:/Users/ROG/Documents/NetBeansProjects/CalculateShape/src/View/Main.java</file>
+            <file>file:/C:/Users/ROG/Documents/NetBeansProjects/CalculateShape/src/DataAcess/CalculatorDAO.java</file>
+            <file>file:/C:/Users/ROG/Documents/NetBeansProjects/CalculateShape/src/Repository/ICalculatorRepository.java</file>
+        </group>
+    </open-files>
+</project-private>
